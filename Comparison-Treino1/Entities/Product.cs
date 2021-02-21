@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace Comparison_Treino1.Entities {
-    class Product : IComparable<Product> {
+    class Product {
 
         public string Name { get; set; }
         public double Price { get; set; }
