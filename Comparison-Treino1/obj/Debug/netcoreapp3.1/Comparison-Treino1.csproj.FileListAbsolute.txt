@@ -1,0 +1,12 @@
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\bin\Debug\netcoreapp3.1\Comparison-Treino1.exe
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\bin\Debug\netcoreapp3.1\Comparison-Treino1.deps.json
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\bin\Debug\netcoreapp3.1\Comparison-Treino1.runtimeconfig.json
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\bin\Debug\netcoreapp3.1\Comparison-Treino1.runtimeconfig.dev.json
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\bin\Debug\netcoreapp3.1\Comparison-Treino1.dll
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\bin\Debug\netcoreapp3.1\Comparison-Treino1.pdb
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\obj\Debug\netcoreapp3.1\Comparison-Treino1.AssemblyInfoInputs.cache
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\obj\Debug\netcoreapp3.1\Comparison-Treino1.AssemblyInfo.cs
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\obj\Debug\netcoreapp3.1\Comparison-Treino1.csproj.CoreCompileInputs.cache
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\obj\Debug\netcoreapp3.1\Comparison-Treino1.dll
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\obj\Debug\netcoreapp3.1\Comparison-Treino1.pdb
+C:\Users\amora\source\repos\Comparison-Treino1\Comparison-Treino1\obj\Debug\netcoreapp3.1\Comparison-Treino1.genruntimeconfig.cache
